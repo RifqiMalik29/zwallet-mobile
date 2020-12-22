@@ -1,0 +1,3 @@
+export const SEARCH = 'SEARCH'
+export const SEARCH_BY_NAME = 'SEARCH_BY_NAME'
+export const GET_USER_TRANSFER = 'GET_USER_TRANSFER'
